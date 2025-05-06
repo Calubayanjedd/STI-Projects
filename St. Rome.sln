@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "St. Rome", "St. Rome.csproj", "{AA53086F-DCC8-4557-AB10-3826B24FBAB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85DF0D6E-95B9-45D2-8CCA-5167EF7538C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA53086F-DCC8-4557-AB10-3826B24FBAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA53086F-DCC8-4557-AB10-3826B24FBAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA53086F-DCC8-4557-AB10-3826B24FBAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA53086F-DCC8-4557-AB10-3826B24FBAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE8A41BA-932F-44C5-8EB1-42AC546C789A}
+	EndGlobalSection
+EndGlobal
